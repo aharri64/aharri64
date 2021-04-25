@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 ## About me:
   - 🖥  Full Stack Web Developer
