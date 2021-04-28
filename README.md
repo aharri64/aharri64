@@ -1,9 +1,7 @@
-### Hi there 👋
-
 ## About me:
-  - 🖥  Full Stack Web Developer
-  - 📖  Currently Studying @ General Assembly
-  - 👟 Loves to run and travel ✈️
+  - 🖥 Full-Stack Developer
+  - 🚴🏻 Loves to bike and pet my dogs 🐕
+  - 🧙 I started a leather business, right now I specialize in plague doctor masks
   - 📫 How to reach me: <br />
 <div>
   <a href="https://www.linkedin.com/in/amir-scott-harrison/" target="_blank" rel="noopener noreferrer">
@@ -45,9 +43,6 @@
   </div>
 </details>
 
-<!--
-
-**aharri64/aharr64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
 
 
@@ -63,6 +58,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img alt="aharri64" src="https://badges.pufler.dev/visits/aharri64/aharri64?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<!--
+
+**aharri64/aharr64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
