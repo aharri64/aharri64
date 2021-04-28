@@ -45,6 +45,7 @@
 
   
 
+<!--
 
 Here are some ideas to get you started:
 
@@ -58,7 +59,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img alt="aharri64" src="https://badges.pufler.dev/visits/aharri64/aharri64?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<!--
 
 **aharri64/aharr64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
