@@ -19,6 +19,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-%230081CB?style=for-the-badge&logo=Material-ui&logoColor=white">
@@ -31,7 +32,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=Heroku&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<div>
+  <div>
     
 <br />
 
